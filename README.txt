@@ -1,12 +1,26 @@
+
 ================================================================================
-HYbridos join WALMART Data Warehouse Project - Implementation.
+Retail Business Data Warehousing - Hybrid Join Project
 ================================================================================
 
-STUDENT: Usman Babar
-STUDENT ID: i221984
-COURSE: Data Warehousing
-DATE: November 17, 2025
-DS-D
+Author: Usman Babar
+Student ID: i221984
+Course: Data Warehousing
+Date: November 17, 2025
+
+================================================================================
+Project Introduction
+================================================================================
+This repository, **Retail Business Data Warehousing**, provides a professional, end-to-end implementation of a retail data warehouse using a hybrid join ETL strategy. The project is designed to mirror real-world business scenarios, integrating large-scale transactional, customer, and product data into a high-performance star schema for advanced business intelligence and OLAP analytics.
+
+Key Features:
+- **Hybrid Join ETL**: High-performance, multi-threaded hybrid join algorithm for scalable and efficient data integration.
+- **Star Schema Design**: Fact table and five dimension tables, with robust indexing and referential integrity.
+- **OLAP Query Suite**: 20 advanced OLAP queries for comprehensive business analysis, including drill-down, roll-up, slicing, dicing, ranking, and time-series analytics.
+- **Professional Data Engineering**: Adheres to best practices in ETL, schema design, and SQL development for enterprise-grade reliability and scalability.
+
+This project is ideal for students, data engineers, and business professionals who want to learn, demonstrate, or deploy a complete retail data warehousing solution—from raw data ingestion to actionable analytics.
+
 ================================================================================
 PROJECT FILES
 ================================================================================
